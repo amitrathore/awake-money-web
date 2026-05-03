@@ -233,7 +233,7 @@ body {
     height: 4px;
     background: linear-gradient(90deg, var(--primary-purple), var(--secondary-pink));
     border-radius: 2px;
-    margin: 2rem 0;
+    margin: 2rem auto;
 }
 
 .divider.gold {
